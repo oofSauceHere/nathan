@@ -1,5 +1,5 @@
 # nathan
-This code listens to Discord audio for words ending in "er" and outputs the following audio to the microphone: "___er? I hardly know 'er!" Uses gTTS for text-to-speech and whisper for speech recognition.
+This program listens to outgoing audio for words ending in "er" and outputs the following audio to the microphone: "___er? I hardly know 'er!" Uses gTTS for text-to-speech and whisper for speech recognition.
 
 ---
 
