@@ -1,5 +1,10 @@
 # nathan
-This program listens to outgoing audio for words ending in "er" and outputs the following audio to the microphone: "___er? I hardly know 'er!" Uses gTTS for text-to-speech and whisper for speech recognition.
+This program listens to audio, transforms it, and outputs it. The transformations include:
+
+1) words ending in "er" => "\_\_\_er? I hardly know 'er!"
+2) "me and \_\_\_" => "\_\_\_ and i"
+
+That's it. That's all it does.
 
 ---
 
